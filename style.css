@@ -307,3 +307,11 @@ a{
   right: 25px;
   top: 28px;
 }
+
+button a{
+  color:white;
+  text-decoration: none;
+}
+.a {
+  color:rgb(7, 51, 95);
+}
