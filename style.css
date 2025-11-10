@@ -301,3 +301,9 @@ footer{
 a{
   color: rgb(0, 157, 255);
 }
+
+.gg{
+  position: absolute;
+  right: 25px;
+  top: 28px;
+}
